@@ -54,6 +54,10 @@ Which archiving tool should you choose for each web service?
 - Radio scrobbling / Music identification: [Shazam](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb) or [AHA Music finder](https://chromewebstore.google.com/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf)
 
 
+## Storage pricing and deal trackers
+
+- [PricePerGig](https://pricepergig.com/) - UK-focused hard drive and SSD price comparison with price-per-TB sorting, retailer filtering, and practical coverage for NAS and homelab drive shopping.
+
 ## Scraping tools
 
 - Radio scrobbling
